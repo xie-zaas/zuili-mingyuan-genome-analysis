@@ -1,0 +1,15 @@
+2fe32774ba670714f3baf72fc0fb26ad  LICENSE
+968b91056c8f6e094dcbf18eb53c48c0  README.md
+c1cef5129be84dbdf12a2833da5124ff  scripts/analyze_aat2.py
+71194b54623eb3bfc2401ef35aebd7c2  scripts/analyze_family.py
+b2dc9d7a1e00a8a9104359cece2a8776  scripts/analyze_ltr.py
+e501f1266121a5285311069d903e7ea2  scripts/analyze_ltr_full.py
+7a006a4a6b34ecd0303fcae360ce1ce6  scripts/analyze_others.py
+851530b1738044114a844718a6d02681  scripts/analyze_others2.py
+ac38301ef67344641e2bb24bdcdef916  scripts/analyze_positions.py
+3962a35d4c279cae0b50cac6acd79855  scripts/plot_ltr.py
+57f8d0dfc5b61bf2f4cbe03f6f318f06  scripts/plot_ltr_copia.py
+4cac38890a56c630b3c1780bcf5d699a  scripts/plot_positions.py
+943192987407f01fe524da192d51139b  scripts/positions_to_docx.py
+f27cf303e60640cd0a622069b29b32f1  scripts/read_xls.py
+f81b2c3866dc7f540c27bb3bc90c8bd8  scripts/replot_fig22.py
